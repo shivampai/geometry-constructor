@@ -8,6 +8,9 @@ Geometry Constructor is an interactive web application designed to help students
 - **Educational Focus:** Best suited for students learning basic geometry and Cartesian planes.
 - **Customizable UI:** Users can adjust point positions and line segments in real time.
 - **Responsive Design:** Works across different screen sizes and devices.
+- **Circles:** This project allows to construct circles
+- **Area/Perimeter Calculation:** Automatically calculate the area and perimeter of triangles/circles.
+- **Save/Load Projects:** Allow users to save and load geometry constructions in multiple file options such as [.plane]plane-file-type.md .
 
 ## Technologies Used
 - **HTML5:** Markup for the page structure.
