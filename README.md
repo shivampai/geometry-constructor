@@ -10,7 +10,7 @@ Geometry Constructor is an interactive web application designed to help students
 - **Responsive Design:** Works across different screen sizes and devices.
 - **Circles:** This project allows to construct circles
 - **Area/Perimeter Calculation:** Automatically calculate the area and perimeter of triangles/circles.
-- **Save/Load Projects:** Allow users to save and load geometry constructions in multiple file options such as [.plane]plane-file-type.md .
+- **Save/Load Projects:** Allow users to save and load geometry constructions in multiple file options such as [.plane](plane-file-type.md) .
 
 ## Technologies Used
 - **HTML5:** Markup for the page structure.
