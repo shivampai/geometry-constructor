@@ -20,4 +20,4 @@ Geometry Constructor is an interactive web application designed to help students
 - **Canvas API:** For drawing the geometric figures on the Cartesian plane.
 
 ## More Details : 
-- **Canvas context Menu in brief :** [context-menu.md](Click here)
+- **Canvas context Menu in brief :** [Click here](context-menu.md)
