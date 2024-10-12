@@ -18,3 +18,6 @@ Geometry Constructor is an interactive web application designed to help students
 - **CSS3:** Styling for a responsive and clean design.
 - **JavaScript:** Logic to handle geometric calculations and interactions.
 - **Canvas API:** For drawing the geometric figures on the Cartesian plane.
+
+## More Details : 
+- **Canvas context Menu in brief :** [context-menu.md](Click here)
