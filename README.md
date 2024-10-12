@@ -21,3 +21,4 @@ Geometry Constructor is an interactive web application designed to help students
 
 ## More Details : 
 - **Canvas context Menu in brief :** [Click here](context-menu.md)
+- **Working of tools explained :** [Click here](toolbox/tree.md)
