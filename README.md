@@ -15,7 +15,8 @@ The Web App is hosted live using [Firebase CLI Hosting](https://firebase.google.
 - **Area/Perimeter Calculation:** Automatically calculate the area and perimeter of triangles/circles.
 - **Save/Load Projects:** Allow users to save and load geometry constructions in multiple file options such as [.plane](info/plane-file.md) .
 - **Toolbox:** Has numerous tools for enhancing user experience & convenient geometric calculation. [More details](toolbox/tree.md).
-  ***[List Of All Features](info/features.md)***
+
+***[List Of All Features](info/features.md)***
   
 ## Technologies Used
 - **HTML5:** Markup for the page structure.
