@@ -9,7 +9,6 @@ The Web App is hosted live using [Firebase CLI Hosting](https://firebase.google.
 - **Dynamic Line Intersection:** Calculate and display the intersection points of lines.
 - **Real-time Geometry Construction:** Create geometric shapes by entering points and connecting them with lines.
 - **Educational Focus:** Best suited for students learning basic geometry and Cartesian planes.
-- **Customizable UI:** Users can adjust point positions and line segments in real time.
 - **Responsive Design:** Works across different screen sizes and devices.
 - **Circles:** This project allows to construct circles
 - **Area/Perimeter Calculation:** Automatically calculate the area and perimeter of triangles/circles.
