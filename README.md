@@ -24,7 +24,7 @@ The Web App is hosted live using [Firebase CLI Hosting](https://firebase.google.
 - **Canvas API:** For drawing the geometric figures on the Cartesian plane.
 
 ## More Details : 
-- **Canvas context Menu in brief :** [Click here](context-menu.md)
+- **Canvas context Menu in brief :** [Click here](info/context-menu.md)
 - **Working of tools explained :** [Click here](toolbox/tree.md)
 
 Please feel free to access the Web app at [https://shivam-pai.web.app/geometry-constructor/](https://shivam-pai.web.app/geometry-constructor/).
